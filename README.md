@@ -12,11 +12,11 @@ Wenn ein Ass zusammen mit zwei Karten mit einem Buchstaben oder einer 10 auf der
 Das französische und das schweizerische Kartenset können verwendet werden. Karten mit einem Wert unter 10 werden nicht berücksichtigt, da dies die Wahrscheinlichkeit für einen Radibautz deutlich verringert.
 
 # Akzeptanzkriterien
-•	Zufällige Elemente (Verteilung der Karten) ist vorhanden
-•	Ein Spiel kann bis zu 4 Computergegner enthalten.
-•	Über Konfigdatei kann das Kartenset definiert werden (Franz / Schweiz)
-•	Dokumentation mittels JavaDoc
-•	Statistik über die Spielverläufe ist einsehbar
+- Zufällige Elemente (Verteilung der Karten) ist vorhanden
+- Ein Spiel kann bis zu 4 Computergegner enthalten.
+- Über Konfigdatei kann das Kartenset definiert werden (Franz / Schweiz)
+- Dokumentation mittels JavaDoc
+- Statistik über die Spielverläufe ist einsehbar
 
 # Abgrenzung
 Das Spiel ist ausschliesslich offline verfügbar. Einen Mehrspielermodus über das Netz-werk ist in der ersten Version nicht geplant.
