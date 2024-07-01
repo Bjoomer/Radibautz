@@ -41,7 +41,7 @@ Stellen Sie sicher, dass das Projekt korrekt konfiguriert ist und alle notwendig
 **Spielstart**
 
 **Programm starten:**
-Starten Sie das Programm, indem Sie die Main-Klasse ausführen. Dies öffnet das Hauptfenster des Spiels.
+Starten Sie das Programm, indem Sie die Main-Klasse im Package DisplayCards ausführen. Dies öffnet das Hauptfenster des Spiels.
 Benutzeroberfläche
 Die Benutzeroberfläche besteht aus verschiedenen Bereichen:
 
