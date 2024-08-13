@@ -34,8 +34,8 @@ IDE: Es wird empfohlen, eine integrierte Entwicklungsumgebung (IDE) wie IntelliJ
 Stellen Sie sicher, dass das Projekt korrekt konfiguriert ist und alle notwendigen Abhängigkeiten aufgelöst sind. In den meisten Fällen sollte Ihre IDE dies automatisch tun.
 
 **4. Projekt erstellen und ausführen:**
-  - Wählen Sie im Projektfenster die Main-Klasse aus.
-  - Klicken Sie mit der rechten Maustaste darauf und wählen Sie Run 'Main.main()'
+  - Wählen Sie im Projektfenster die Radibautz-Main-Klasse aus, die unter src/main/java/DsiplayCards/RadibautzMain zu finden ist.
+  - Klicken Sie mit der rechten Maustaste darauf und wählen Sie Run 'RadibautzMain.main()'
 
 # Grundlegende Angaben
 **Spielstart**
