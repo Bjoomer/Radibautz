@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"org.example","l":"Main"},{"p":"DisplayCards","l":"RadibautzController"},{"p":"DisplayCards","l":"RadibautzMain"},{"p":"DisplayCards","l":"RadibautzModel"},{"p":"DisplayCards","l":"RadibautzView"}]
