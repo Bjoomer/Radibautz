@@ -39,9 +39,12 @@ Stellen Sie sicher, dass das Projekt korrekt konfiguriert ist und alle notwendig
 
 # Grundlegende Angaben
 **Konfig-Datei**
+
 In der Konfigdatei, die sich unter src/main/resources/config.properties befindet, kann Eingestellt werden, ob mit Französischen oder Schweizer Spielkarten gespielt wird.
-Französisch  = cards=src/Cards/
-Schweiz      = cards=src/SwissCards/
+
+Französisch: cards=src/Cards/
+
+Schweiz:     cards=src/SwissCards/
 
 **Spielstart**
 
