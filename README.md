@@ -38,6 +38,11 @@ Stellen Sie sicher, dass das Projekt korrekt konfiguriert ist und alle notwendig
   - Klicken Sie mit der rechten Maustaste darauf und wählen Sie Run 'RadibautzMain.main()'
 
 # Grundlegende Angaben
+**Konfig-Datei**
+In der Konfigdatei, die sich unter src/main/resources/config.properties befindet, kann Eingestellt werden, ob mit Französischen oder Schweizer Spielkarten gespielt wird.
+Französisch  = cards=src/Cards/
+Schweiz      = cards=src/SwissCards/
+
 **Spielstart**
 
 **Programm starten:**
