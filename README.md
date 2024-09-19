@@ -2,6 +2,8 @@
 Kartenspiel
 Entwicklung des 2D-Kartenspiels «Radibautz» mit JAVA
 
+**Code von Version 3 befindet sich im V3 Branch!**
+
 # Ausgangslage / Beschreibung der Anforderung
 Im Fach Objektorientierte Programmieren werden die Studenten ein 2D Spiel in Java entwickeln. Für dieses Projekt möchte ich gerne das Kartenspiel Radibautz entwickeln. Die Spielregeln sind folgende:
 
